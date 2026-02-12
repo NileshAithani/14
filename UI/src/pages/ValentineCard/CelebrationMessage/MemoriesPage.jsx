@@ -50,7 +50,6 @@ import ninthChildhoodPhoto from "../../../assets/Child/9.jpg";
 import tenthChildhoodPhoto from "../../../assets/Child/10.jpg";
 import eleventhChildhoodPhoto from "../../../assets/Child/11.jpg";
 
-
 import firstEveningPhoto from "../../../assets/Evening/1.MP4";
 import secondEveningPhoto from "../../../assets/Evening/2.MP4";
 import thirdEveningPhoto from "../../../assets/Evening/3.mov";
