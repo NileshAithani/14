@@ -54,7 +54,7 @@ import firstEveningPhoto from "../../../assets/Evening/1.MP4";
 import secondEveningPhoto from "../../../assets/Evening/2.MP4";
 import thirdEveningPhoto from "../../../assets/Evening/3.mov";
 import fourthEveningPhoto from "../../../assets/Evening/4.mov";
-// import fifthEveningPhoto from "../../../assets/Evening/5.mov";
+import fifthEveningPhoto from "../../../assets/Evening/5.mov";
 import sixthEveningPhoto from "../../../assets/Evening/6.mov";
 import seventhEveningPhoto from "../../../assets/Evening/7.mov";
 import eighthEveningPhoto from "../../../assets/Evening/8.png";
@@ -302,12 +302,11 @@ export default function MemoriesPage() {
           url: fourthEveningPhoto,
           caption: "Comfort in the little things",
         },
-        // {
-        //   id: 5,
-        //   url: fifthEveningPhoto,
-        //   caption: "Another evening, another memory",
-        // },
-        
+        {
+          id: 5,
+          url: fifthEveningPhoto,
+          caption: "Another evening, another memory",
+        },
         { id: 6, url: sixthEveningPhoto, caption: "Time well spent" },
         {
           id: 7,
