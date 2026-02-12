@@ -51,20 +51,20 @@ import ninthChildhoodPhoto from "../../../assets/Child/9.jpg";
 import tenthChildhoodPhoto from "../../../assets/Child/10.jpg";
 import eleventhChildhoodPhoto from "../../../assets/Child/11.jpg";
 
-import firstEveningPhoto from "../../../assets/Evening/1.MP4";
-import secondEveningPhoto from "../../../assets/Evening/2.MP4";
-import thirdEveningPhoto from "../../../assets/Evening/3.mov";
-import fourthEveningPhoto from "../../../assets/Evening/4.mov";
-import fifthEveningPhoto from "../../../assets/Evening/5.mov";
-import sixthEveningPhoto from "../../../assets/Evening/6.mov";
-import seventhEveningPhoto from "../../../assets/Evening/7.mov";
-import eighthEveningPhoto from "../../../assets/Evening/8.png";
-import ninthEveningPhoto from "../../../assets/Evening/9.png";
-import tenthEveningPhoto from "../../../assets/Evening/10.png";
-import eleventhEveningPhoto from "../../../assets/Evening/11.png";
-import twelfthEveningPhoto from "../../../assets/Evening/12.png";
-import thirteenthEveningPhoto from "../../../assets/Evening/13.png";
-import fourteenthEveningPhoto from "../../../assets/Evening/14.mov";
+// import firstEveningPhoto from "../../../assets/Evening/1.MP4";
+// import secondEveningPhoto from "../../../assets/Evening/2.MP4";
+// import thirdEveningPhoto from "../../../assets/Evening/3.mov";
+// import fourthEveningPhoto from "../../../assets/Evening/4.mov";
+// import fifthEveningPhoto from "../../../assets/Evening/5.mov";
+// import sixthEveningPhoto from "../../../assets/Evening/6.mov";
+// import seventhEveningPhoto from "../../../assets/Evening/7.mov";
+// import eighthEveningPhoto from "../../../assets/Evening/8.png";
+// import ninthEveningPhoto from "../../../assets/Evening/9.png";
+// import tenthEveningPhoto from "../../../assets/Evening/10.png";
+// import eleventhEveningPhoto from "../../../assets/Evening/11.png";
+// import twelfthEveningPhoto from "../../../assets/Evening/12.png";
+// import thirteenthEveningPhoto from "../../../assets/Evening/13.png";
+// import fourteenthEveningPhoto from "../../../assets/Evening/14.mov";
 
 import firstBdayPhoto from "../../../assets/HerBday/1.mov";
 import secondBdayPhoto from "../../../assets/HerBday/2.mov";
@@ -272,81 +272,81 @@ export default function MemoriesPage() {
         },
       ],
     },
-    {
-      id: 5,
-      title: "Evening Quick Meetups",
-      date: "The evenings we never wanted to end",
-      subtitle: "Short but special",
-      emoji: "🌆",
-      description:
-        "Those little evening meetups after a long day — just a few stolen moments together, but they meant everything. No grand plans, just us, laughter, and the comfort of being side by side.",
-      image: "☕",
-      color: "from-orange-400 to-pink-400",
-      photos: [
-        {
-          id: 1,
-          url: firstEveningPhoto,
-          caption: "A peaceful start to the evening",
-        },
-        {
-          id: 2,
-          url: secondEveningPhoto,
-          caption: "Simple moments, shared smiles",
-        },
-        {
-          id: 3,
-          url: thirdEveningPhoto,
-          caption: "Just a quiet pause together",
-        },
-        {
-          id: 4,
-          url: fourthEveningPhoto,
-          caption: "Comfort in the little things",
-        },
-        {
-          id: 5,
-          url: fifthEveningPhoto,
-          caption: "Another evening, another memory",
-        },
-        { id: 6, url: sixthEveningPhoto, caption: "Time well spent" },
-        {
-          id: 7,
-          url: seventhEveningPhoto,
-          caption: "Moments that felt effortless",
-        },
-        {
-          id: 8,
-          url: eighthEveningPhoto,
-          caption: "Soft skies and calm conversations",
-        },
-        { id: 9, url: ninthEveningPhoto, caption: "Side by side, as always" },
-        {
-          id: 10,
-          url: tenthEveningPhoto,
-          caption: "A short break from the world",
-        },
-        {
-          id: 11,
-          url: eleventhEveningPhoto,
-          caption: "Evenings made a little brighter",
-        },
-        {
-          id: 12,
-          url: twelfthEveningPhoto,
-          caption: "Ending the day on a good note",
-        },
-        {
-          id: 13,
-          url: thirteenthEveningPhoto,
-          caption: "One more memory to hold onto",
-        },
-        {
-          id: 14,
-          url: fourteenthEveningPhoto,
-          caption: "Moments worth replaying",
-        },
-      ],
-    },
+    // {
+    //   id: 5,
+    //   title: "Evening Quick Meetups",
+    //   date: "The evenings we never wanted to end",
+    //   subtitle: "Short but special",
+    //   emoji: "🌆",
+    //   description:
+    //     "Those little evening meetups after a long day — just a few stolen moments together, but they meant everything. No grand plans, just us, laughter, and the comfort of being side by side.",
+    //   image: "☕",
+    //   color: "from-orange-400 to-pink-400",
+    //   photos: [
+    //     {
+    //       id: 1,
+    //       url: firstEveningPhoto,
+    //       caption: "A peaceful start to the evening",
+    //     },
+    //     {
+    //       id: 2,
+    //       url: secondEveningPhoto,
+    //       caption: "Simple moments, shared smiles",
+    //     },
+    //     {
+    //       id: 3,
+    //       url: thirdEveningPhoto,
+    //       caption: "Just a quiet pause together",
+    //     },
+    //     {
+    //       id: 4,
+    //       url: fourthEveningPhoto,
+    //       caption: "Comfort in the little things",
+    //     },
+    //     {
+    //       id: 5,
+    //       url: fifthEveningPhoto,
+    //       caption: "Another evening, another memory",
+    //     },
+    //     { id: 6, url: sixthEveningPhoto, caption: "Time well spent" },
+    //     {
+    //       id: 7,
+    //       url: seventhEveningPhoto,
+    //       caption: "Moments that felt effortless",
+    //     },
+    //     {
+    //       id: 8,
+    //       url: eighthEveningPhoto,
+    //       caption: "Soft skies and calm conversations",
+    //     },
+    //     { id: 9, url: ninthEveningPhoto, caption: "Side by side, as always" },
+    //     {
+    //       id: 10,
+    //       url: tenthEveningPhoto,
+    //       caption: "A short break from the world",
+    //     },
+    //     {
+    //       id: 11,
+    //       url: eleventhEveningPhoto,
+    //       caption: "Evenings made a little brighter",
+    //     },
+    //     {
+    //       id: 12,
+    //       url: twelfthEveningPhoto,
+    //       caption: "Ending the day on a good note",
+    //     },
+    //     {
+    //       id: 13,
+    //       url: thirteenthEveningPhoto,
+    //       caption: "One more memory to hold onto",
+    //     },
+    //     {
+    //       id: 14,
+    //       url: fourteenthEveningPhoto,
+    //       caption: "Moments worth replaying",
+    //     },
+    //   ],
+    // },
     {
       id: 6,
       title: "Her First Birthday With Me",
