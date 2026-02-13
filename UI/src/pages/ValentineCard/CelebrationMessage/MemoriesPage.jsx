@@ -8,7 +8,6 @@ import fourthcafePhoto from "../../../assets/FirstDate/4.png";
 import fifthcafePhoto from "../../../assets/FirstDate/5.png";
 import sixthcafePhoto from "../../../assets/FirstDate/1.png";
 
-
 import firstDelhiPhoto from "../../../assets/DelhiDarshan/21.png";
 import secondDelhiPhoto from "../../../assets/DelhiDarshan/22.mov";
 import thirdDelhiPhoto from "../../../assets/DelhiDarshan/23.mov";
@@ -286,12 +285,12 @@ export default function MemoriesPage() {
         {
           id: 1,
           url: firstEveningPhoto,
-          caption: "A peaceful start to the evening",
+          caption: "Coffee, calm, and you",
         },
         {
           id: 2,
           url: secondEveningPhoto,
-          caption: "Simple moments, shared smiles",
+          caption: "Coffee delivery with a smile",
         },
         {
           id: 3,
@@ -317,7 +316,7 @@ export default function MemoriesPage() {
         {
           id: 8,
           url: eighthEveningPhoto,
-          caption: "Soft skies and calm conversations",
+          caption: "Clicked a pic… got a slap 😅",
         },
         { id: 9, url: ninthEveningPhoto, caption: "Side by side, as always" },
         {
